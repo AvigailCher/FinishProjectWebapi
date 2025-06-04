@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VYWhFTkGhFc=",
+  "dgSpecHash": "5kupLwvTHbA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\פרויקט גמור\\webapi6\\FileServise\\FileServise.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\FileServise\\FileServise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

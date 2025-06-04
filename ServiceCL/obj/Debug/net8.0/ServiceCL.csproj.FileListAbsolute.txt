@@ -160,3 +160,21 @@ C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעוד
 C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\ServiceCL\obj\Debug\net8.0\refint\ServiceCL.dll
 C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.pdb
 C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\ServiceCL\obj\Debug\net8.0\ref\ServiceCL.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\ServiceCL\bin\Debug\net8.0\ServiceCL.deps.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\ServiceCL\bin\Debug\net8.0\ServiceCL.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\ServiceCL\bin\Debug\net8.0\ServiceCL.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\ServiceCL\bin\Debug\net8.0\FileServise.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\ServiceCL\bin\Debug\net8.0\models.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\ServiceCL\bin\Debug\net8.0\models.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\ServiceCL\bin\Debug\net8.0\FileServise.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.AssemblyReference.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\ServiceCL\obj\Debug\net8.0\ServiceCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\ServiceCL\obj\Debug\net8.0\ServiceCL.AssemblyInfoInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\ServiceCL\obj\Debug\net8.0\ServiceCL.AssemblyInfo.cs
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\ServiceCL\obj\Debug\net8.0\ServiceCL.sourcelink.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.Up2Date
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\ServiceCL\obj\Debug\net8.0\ServiceCL.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\ServiceCL\obj\Debug\net8.0\refint\ServiceCL.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\ServiceCL\obj\Debug\net8.0\ServiceCL.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\ServiceCL\obj\Debug\net8.0\ref\ServiceCL.dll

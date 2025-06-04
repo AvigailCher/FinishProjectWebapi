@@ -128,3 +128,16 @@ C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעוד
 C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\FileServise\obj\Debug\net8.0\refint\FileServise.dll
 C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\FileServise\obj\Debug\net8.0\FileServise.pdb
 C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\FileServise\obj\Debug\net8.0\ref\FileServise.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\FileServise\bin\Debug\net8.0\FileServise.deps.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\FileServise\bin\Debug\net8.0\FileServise.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\FileServise\bin\Debug\net8.0\FileServise.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\FileServise\obj\Debug\net8.0\FileServise.csproj.AssemblyReference.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\FileServise\obj\Debug\net8.0\FileServise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\FileServise\obj\Debug\net8.0\FileServise.AssemblyInfoInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\FileServise\obj\Debug\net8.0\FileServise.AssemblyInfo.cs
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\FileServise\obj\Debug\net8.0\FileServise.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\FileServise\obj\Debug\net8.0\FileServise.sourcelink.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\FileServise\obj\Debug\net8.0\FileServise.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\FileServise\obj\Debug\net8.0\refint\FileServise.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\FileServise\obj\Debug\net8.0\FileServise.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\FileServise\obj\Debug\net8.0\ref\FileServise.dll
