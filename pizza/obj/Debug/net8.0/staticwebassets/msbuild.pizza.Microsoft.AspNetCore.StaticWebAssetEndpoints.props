@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/pizza/index.gqkusoami0.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gqkusoami0"},{"Name":"integrity","Value":"sha256-iB9rpqjbVHeSxxX75VepX3fYt8qbaL0OS421HbuER6Y="},{"Name":"label","Value":"_content/pizza/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"740"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022iB9rpqjbVHeSxxX75VepX3fYt8qbaL0OS421HbuER6Y=\u0022"},{"Name":"Last-Modified","Value":"Tue, 10 Dec 2024 14:50:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/pizza/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iB9rpqjbVHeSxxX75VepX3fYt8qbaL0OS421HbuER6Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"740"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022iB9rpqjbVHeSxxX75VepX3fYt8qbaL0OS421HbuER6Y=\u0022"},{"Name":"Last-Modified","Value":"Tue, 10 Dec 2024 14:50:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/pizza/js/index.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\index.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Aa1dAfXiPum6MKyBuKV\u002B5gfbxbrbQnCO2coZoTsW0xs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1548"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Aa1dAfXiPum6MKyBuKV\u002B5gfbxbrbQnCO2coZoTsW0xs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 10 Dec 2024 15:59:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/pizza/js/index.zrdxvc64dc.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\index.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zrdxvc64dc"},{"Name":"integrity","Value":"sha256-Aa1dAfXiPum6MKyBuKV\u002B5gfbxbrbQnCO2coZoTsW0xs="},{"Name":"label","Value":"_content/pizza/js/index.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1548"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Aa1dAfXiPum6MKyBuKV\u002B5gfbxbrbQnCO2coZoTsW0xs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 10 Dec 2024 15:59:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

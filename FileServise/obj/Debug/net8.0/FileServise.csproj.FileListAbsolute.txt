@@ -1,0 +1,130 @@
+H:\web api\my project\FileServise\obj\Debug\net8.0\FileServise.GeneratedMSBuildEditorConfig.editorconfig
+H:\web api\my project\FileServise\obj\Debug\net8.0\FileServise.AssemblyInfoInputs.cache
+H:\web api\my project\FileServise\obj\Debug\net8.0\FileServise.AssemblyInfo.cs
+H:\web api\my project\FileServise\obj\Debug\net8.0\FileServise.csproj.CoreCompileInputs.cache
+H:\web api\my project\FileServise\obj\Debug\net8.0\FileServise.sourcelink.json
+H:\web api\my project\FileServise\bin\Debug\net8.0\FileServise.deps.json
+H:\web api\my project\FileServise\bin\Debug\net8.0\FileServise.dll
+H:\web api\my project\FileServise\bin\Debug\net8.0\FileServise.pdb
+H:\web api\my project\FileServise\obj\Debug\net8.0\FileServise.csproj.AssemblyReference.cache
+H:\web api\my project\FileServise\obj\Debug\net8.0\FileServise.dll
+H:\web api\my project\FileServise\obj\Debug\net8.0\refint\FileServise.dll
+H:\web api\my project\FileServise\obj\Debug\net8.0\FileServise.pdb
+H:\web api\my project\FileServise\obj\Debug\net8.0\ref\FileServise.dll
+C:\Users\user\Desktop\my project\FileServise\bin\Debug\net8.0\FileServise.deps.json
+C:\Users\user\Desktop\my project\FileServise\bin\Debug\net8.0\FileServise.dll
+C:\Users\user\Desktop\my project\FileServise\bin\Debug\net8.0\FileServise.pdb
+C:\Users\user\Desktop\my project\FileServise\obj\Debug\net8.0\FileServise.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\my project\FileServise\obj\Debug\net8.0\FileServise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\my project\FileServise\obj\Debug\net8.0\FileServise.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\my project\FileServise\obj\Debug\net8.0\FileServise.AssemblyInfo.cs
+C:\Users\user\Desktop\my project\FileServise\obj\Debug\net8.0\FileServise.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\my project\FileServise\obj\Debug\net8.0\FileServise.sourcelink.json
+C:\Users\user\Desktop\my project\FileServise\obj\Debug\net8.0\FileServise.dll
+C:\Users\user\Desktop\my project\FileServise\obj\Debug\net8.0\refint\FileServise.dll
+C:\Users\user\Desktop\my project\FileServise\obj\Debug\net8.0\FileServise.pdb
+C:\Users\user\Desktop\my project\FileServise\obj\Debug\net8.0\ref\FileServise.dll
+H:\webapi6\FileServise\bin\Debug\net8.0\FileServise.deps.json
+H:\webapi6\FileServise\bin\Debug\net8.0\FileServise.dll
+H:\webapi6\FileServise\bin\Debug\net8.0\FileServise.pdb
+H:\webapi6\FileServise\obj\Debug\net8.0\FileServise.csproj.AssemblyReference.cache
+H:\webapi6\FileServise\obj\Debug\net8.0\FileServise.GeneratedMSBuildEditorConfig.editorconfig
+H:\webapi6\FileServise\obj\Debug\net8.0\FileServise.AssemblyInfoInputs.cache
+H:\webapi6\FileServise\obj\Debug\net8.0\FileServise.AssemblyInfo.cs
+H:\webapi6\FileServise\obj\Debug\net8.0\FileServise.csproj.CoreCompileInputs.cache
+H:\webapi6\FileServise\obj\Debug\net8.0\FileServise.sourcelink.json
+H:\webapi6\FileServise\obj\Debug\net8.0\FileServise.dll
+H:\webapi6\FileServise\obj\Debug\net8.0\refint\FileServise.dll
+H:\webapi6\FileServise\obj\Debug\net8.0\FileServise.pdb
+H:\webapi6\FileServise\obj\Debug\net8.0\ref\FileServise.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\FileServise\bin\Debug\net8.0\FileServise.deps.json
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\FileServise\bin\Debug\net8.0\FileServise.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\FileServise\bin\Debug\net8.0\FileServise.pdb
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\FileServise\obj\Debug\net8.0\FileServise.csproj.AssemblyReference.cache
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\FileServise\obj\Debug\net8.0\FileServise.GeneratedMSBuildEditorConfig.editorconfig
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\FileServise\obj\Debug\net8.0\FileServise.AssemblyInfoInputs.cache
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\FileServise\obj\Debug\net8.0\FileServise.AssemblyInfo.cs
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\FileServise\obj\Debug\net8.0\FileServise.csproj.CoreCompileInputs.cache
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\FileServise\obj\Debug\net8.0\FileServise.sourcelink.json
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\FileServise\obj\Debug\net8.0\FileServise.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\FileServise\obj\Debug\net8.0\refint\FileServise.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\FileServise\obj\Debug\net8.0\FileServise.pdb
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\FileServise\obj\Debug\net8.0\ref\FileServise.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\FileServise\bin\Debug\net8.0\FileServise.deps.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\FileServise\bin\Debug\net8.0\FileServise.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\FileServise\bin\Debug\net8.0\FileServise.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\FileServise\obj\Debug\net8.0\FileServise.csproj.AssemblyReference.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\FileServise\obj\Debug\net8.0\FileServise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\FileServise\obj\Debug\net8.0\FileServise.AssemblyInfoInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\FileServise\obj\Debug\net8.0\FileServise.AssemblyInfo.cs
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\FileServise\obj\Debug\net8.0\FileServise.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\FileServise\obj\Debug\net8.0\FileServise.sourcelink.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\FileServise\obj\Debug\net8.0\FileServise.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\FileServise\obj\Debug\net8.0\refint\FileServise.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\FileServise\obj\Debug\net8.0\FileServise.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\FileServise\obj\Debug\net8.0\ref\FileServise.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\FileServise\bin\Debug\net8.0\FileServise.deps.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\FileServise\bin\Debug\net8.0\FileServise.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\FileServise\bin\Debug\net8.0\FileServise.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.csproj.AssemblyReference.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.AssemblyInfoInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.AssemblyInfo.cs
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.sourcelink.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\refint\FileServise.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\ref\FileServise.dll
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\FileServise\bin\Debug\net8.0\FileServise.deps.json
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\FileServise\bin\Debug\net8.0\FileServise.dll
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\FileServise\bin\Debug\net8.0\FileServise.pdb
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.csproj.AssemblyReference.cache
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.GeneratedMSBuildEditorConfig.editorconfig
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.AssemblyInfoInputs.cache
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.AssemblyInfo.cs
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.csproj.CoreCompileInputs.cache
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.sourcelink.json
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.dll
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\refint\FileServise.dll
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.pdb
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\ref\FileServise.dll
+E:\פרויקט מעודכן לשיעור 7\webapi6\FileServise\bin\Debug\net8.0\FileServise.deps.json
+E:\פרויקט מעודכן לשיעור 7\webapi6\FileServise\bin\Debug\net8.0\FileServise.dll
+E:\פרויקט מעודכן לשיעור 7\webapi6\FileServise\bin\Debug\net8.0\FileServise.pdb
+E:\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.csproj.AssemblyReference.cache
+E:\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.AssemblyInfoInputs.cache
+E:\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.AssemblyInfo.cs
+E:\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.csproj.CoreCompileInputs.cache
+E:\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.sourcelink.json
+E:\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.dll
+E:\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\refint\FileServise.dll
+E:\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\FileServise.pdb
+E:\פרויקט מעודכן לשיעור 7\webapi6\FileServise\obj\Debug\net8.0\ref\FileServise.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\FileServise\bin\Debug\net8.0\FileServise.deps.json
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\FileServise\bin\Debug\net8.0\FileServise.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\FileServise\bin\Debug\net8.0\FileServise.pdb
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\FileServise\obj\Debug\net8.0\FileServise.csproj.AssemblyReference.cache
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\FileServise\obj\Debug\net8.0\FileServise.GeneratedMSBuildEditorConfig.editorconfig
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\FileServise\obj\Debug\net8.0\FileServise.AssemblyInfoInputs.cache
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\FileServise\obj\Debug\net8.0\FileServise.AssemblyInfo.cs
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\FileServise\obj\Debug\net8.0\FileServise.csproj.CoreCompileInputs.cache
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\FileServise\obj\Debug\net8.0\FileServise.sourcelink.json
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\FileServise\obj\Debug\net8.0\FileServise.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\FileServise\obj\Debug\net8.0\refint\FileServise.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\FileServise\obj\Debug\net8.0\FileServise.pdb
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\FileServise\obj\Debug\net8.0\ref\FileServise.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\FileServise\bin\Debug\net8.0\FileServise.deps.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\FileServise\bin\Debug\net8.0\FileServise.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\FileServise\bin\Debug\net8.0\FileServise.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\FileServise\obj\Debug\net8.0\FileServise.csproj.AssemblyReference.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\FileServise\obj\Debug\net8.0\FileServise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\FileServise\obj\Debug\net8.0\FileServise.AssemblyInfoInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\FileServise\obj\Debug\net8.0\FileServise.AssemblyInfo.cs
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\FileServise\obj\Debug\net8.0\FileServise.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\FileServise\obj\Debug\net8.0\FileServise.sourcelink.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\FileServise\obj\Debug\net8.0\FileServise.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\FileServise\obj\Debug\net8.0\refint\FileServise.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\FileServise\obj\Debug\net8.0\FileServise.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\FileServise\obj\Debug\net8.0\ref\FileServise.dll

@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "fOQIW6JV3yFTzShAFBJFsA23MgcjiSj6UgS0MqwkDnc=",
+  "Source": "pizza",
+  "BasePath": "_content/pizza",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "pizza\\wwwroot",
+      "Source": "pizza",
+      "ContentRoot": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\פרויקט מעודכן לשיעור 9\\webapi6\\pizza\\wwwroot\\",
+      "BasePath": "_content/pizza",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\פרויקט מעודכן לשיעור 9\\webapi6\\pizza\\wwwroot\\index.html",
+      "SourceId": "pizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\פרויקט מעודכן לשיעור 9\\webapi6\\pizza\\wwwroot\\",
+      "BasePath": "_content/pizza",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gqkusoami0",
+      "Integrity": "iB9rpqjbVHeSxxX75VepX3fYt8qbaL0OS421HbuER6Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\פרויקט מעודכן לשיעור 9\\webapi6\\pizza\\wwwroot\\js\\index.js",
+      "SourceId": "pizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\פרויקט מעודכן לשיעור 9\\webapi6\\pizza\\wwwroot\\",
+      "BasePath": "_content/pizza",
+      "RelativePath": "js/index#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zrdxvc64dc",
+      "Integrity": "Aa1dAfXiPum6MKyBuKV+5gfbxbrbQnCO2coZoTsW0xs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\index.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.gqkusoami0.html",
+      "AssetFile": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\פרויקט מעודכן לשיעור 9\\webapi6\\pizza\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "740"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iB9rpqjbVHeSxxX75VepX3fYt8qbaL0OS421HbuER6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 14:50:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gqkusoami0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iB9rpqjbVHeSxxX75VepX3fYt8qbaL0OS421HbuER6Y="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\פרויקט מעודכן לשיעור 9\\webapi6\\pizza\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "740"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iB9rpqjbVHeSxxX75VepX3fYt8qbaL0OS421HbuER6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 14:50:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iB9rpqjbVHeSxxX75VepX3fYt8qbaL0OS421HbuER6Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/index.js",
+      "AssetFile": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\פרויקט מעודכן לשיעור 9\\webapi6\\pizza\\wwwroot\\js\\index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Aa1dAfXiPum6MKyBuKV+5gfbxbrbQnCO2coZoTsW0xs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 15:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Aa1dAfXiPum6MKyBuKV+5gfbxbrbQnCO2coZoTsW0xs="
+        }
+      ]
+    },
+    {
+      "Route": "js/index.zrdxvc64dc.js",
+      "AssetFile": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\פרויקט מעודכן לשיעור 9\\webapi6\\pizza\\wwwroot\\js\\index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Aa1dAfXiPum6MKyBuKV+5gfbxbrbQnCO2coZoTsW0xs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 15:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zrdxvc64dc"
+        },
+        {
+          "Name": "label",
+          "Value": "js/index.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Aa1dAfXiPum6MKyBuKV+5gfbxbrbQnCO2coZoTsW0xs="
+        }
+      ]
+    }
+  ]
+}

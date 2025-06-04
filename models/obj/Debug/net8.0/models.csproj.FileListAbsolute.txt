@@ -1,0 +1,120 @@
+H:\web api\my project\models\bin\Debug\net8.0\models.deps.json
+H:\web api\my project\models\bin\Debug\net8.0\models.dll
+H:\web api\my project\models\bin\Debug\net8.0\models.pdb
+H:\web api\my project\models\obj\Debug\net8.0\models.GeneratedMSBuildEditorConfig.editorconfig
+H:\web api\my project\models\obj\Debug\net8.0\models.AssemblyInfoInputs.cache
+H:\web api\my project\models\obj\Debug\net8.0\models.AssemblyInfo.cs
+H:\web api\my project\models\obj\Debug\net8.0\models.csproj.CoreCompileInputs.cache
+H:\web api\my project\models\obj\Debug\net8.0\models.sourcelink.json
+H:\web api\my project\models\obj\Debug\net8.0\models.dll
+H:\web api\my project\models\obj\Debug\net8.0\refint\models.dll
+H:\web api\my project\models\obj\Debug\net8.0\models.pdb
+H:\web api\my project\models\obj\Debug\net8.0\ref\models.dll
+C:\Users\user\Desktop\my project\models\bin\Debug\net8.0\models.deps.json
+C:\Users\user\Desktop\my project\models\bin\Debug\net8.0\models.dll
+C:\Users\user\Desktop\my project\models\bin\Debug\net8.0\models.pdb
+C:\Users\user\Desktop\my project\models\obj\Debug\net8.0\models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\my project\models\obj\Debug\net8.0\models.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\my project\models\obj\Debug\net8.0\models.AssemblyInfo.cs
+C:\Users\user\Desktop\my project\models\obj\Debug\net8.0\models.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\my project\models\obj\Debug\net8.0\models.sourcelink.json
+C:\Users\user\Desktop\my project\models\obj\Debug\net8.0\models.dll
+C:\Users\user\Desktop\my project\models\obj\Debug\net8.0\refint\models.dll
+C:\Users\user\Desktop\my project\models\obj\Debug\net8.0\models.pdb
+C:\Users\user\Desktop\my project\models\obj\Debug\net8.0\ref\models.dll
+H:\webapi6\models\bin\Debug\net8.0\models.deps.json
+H:\webapi6\models\bin\Debug\net8.0\models.dll
+H:\webapi6\models\bin\Debug\net8.0\models.pdb
+H:\webapi6\models\obj\Debug\net8.0\models.GeneratedMSBuildEditorConfig.editorconfig
+H:\webapi6\models\obj\Debug\net8.0\models.AssemblyInfoInputs.cache
+H:\webapi6\models\obj\Debug\net8.0\models.AssemblyInfo.cs
+H:\webapi6\models\obj\Debug\net8.0\models.csproj.CoreCompileInputs.cache
+H:\webapi6\models\obj\Debug\net8.0\models.sourcelink.json
+H:\webapi6\models\obj\Debug\net8.0\models.dll
+H:\webapi6\models\obj\Debug\net8.0\refint\models.dll
+H:\webapi6\models\obj\Debug\net8.0\models.pdb
+H:\webapi6\models\obj\Debug\net8.0\ref\models.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\models\bin\Debug\net8.0\models.deps.json
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\models\bin\Debug\net8.0\models.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\models\bin\Debug\net8.0\models.pdb
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\models\obj\Debug\net8.0\models.GeneratedMSBuildEditorConfig.editorconfig
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\models\obj\Debug\net8.0\models.AssemblyInfoInputs.cache
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\models\obj\Debug\net8.0\models.AssemblyInfo.cs
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\models\obj\Debug\net8.0\models.csproj.CoreCompileInputs.cache
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\models\obj\Debug\net8.0\models.sourcelink.json
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\models\obj\Debug\net8.0\models.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\models\obj\Debug\net8.0\refint\models.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\models\obj\Debug\net8.0\models.pdb
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\models\obj\Debug\net8.0\ref\models.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\models\bin\Debug\net8.0\models.deps.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\models\bin\Debug\net8.0\models.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\models\bin\Debug\net8.0\models.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\models\obj\Debug\net8.0\models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\models\obj\Debug\net8.0\models.AssemblyInfoInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\models\obj\Debug\net8.0\models.AssemblyInfo.cs
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\models\obj\Debug\net8.0\models.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\models\obj\Debug\net8.0\models.sourcelink.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\models\obj\Debug\net8.0\models.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\models\obj\Debug\net8.0\refint\models.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\models\obj\Debug\net8.0\models.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\models\obj\Debug\net8.0\ref\models.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\models\bin\Debug\net8.0\models.deps.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\models\bin\Debug\net8.0\models.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\models\bin\Debug\net8.0\models.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\models.AssemblyInfoInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\models.AssemblyInfo.cs
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\models.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\models.sourcelink.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\models.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\refint\models.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\models.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\ref\models.dll
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\models\bin\Debug\net8.0\models.deps.json
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\models\bin\Debug\net8.0\models.dll
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\models\bin\Debug\net8.0\models.pdb
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\models.GeneratedMSBuildEditorConfig.editorconfig
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\models.AssemblyInfoInputs.cache
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\models.AssemblyInfo.cs
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\models.csproj.CoreCompileInputs.cache
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\models.sourcelink.json
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\models.dll
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\refint\models.dll
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\models.pdb
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\ref\models.dll
+E:\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\models.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\models.AssemblyInfoInputs.cache
+E:\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\models.AssemblyInfo.cs
+E:\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\models.csproj.CoreCompileInputs.cache
+E:\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\models.sourcelink.json
+E:\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\models.dll
+E:\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\refint\models.dll
+E:\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\models.pdb
+E:\פרויקט מעודכן לשיעור 7\webapi6\models\bin\Debug\net8.0\models.deps.json
+E:\פרויקט מעודכן לשיעור 7\webapi6\models\bin\Debug\net8.0\models.dll
+E:\פרויקט מעודכן לשיעור 7\webapi6\models\bin\Debug\net8.0\models.pdb
+E:\פרויקט מעודכן לשיעור 7\webapi6\models\obj\Debug\net8.0\ref\models.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\models\bin\Debug\net8.0\models.deps.json
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\models\bin\Debug\net8.0\models.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\models\bin\Debug\net8.0\models.pdb
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\models\obj\Debug\net8.0\models.GeneratedMSBuildEditorConfig.editorconfig
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\models\obj\Debug\net8.0\models.AssemblyInfoInputs.cache
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\models\obj\Debug\net8.0\models.AssemblyInfo.cs
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\models\obj\Debug\net8.0\models.csproj.CoreCompileInputs.cache
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\models\obj\Debug\net8.0\models.sourcelink.json
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\models\obj\Debug\net8.0\models.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\models\obj\Debug\net8.0\refint\models.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\models\obj\Debug\net8.0\models.pdb
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\models\obj\Debug\net8.0\ref\models.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\models\bin\Debug\net8.0\models.deps.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\models\bin\Debug\net8.0\models.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\models\bin\Debug\net8.0\models.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\models\obj\Debug\net8.0\models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\models\obj\Debug\net8.0\models.AssemblyInfoInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\models\obj\Debug\net8.0\models.AssemblyInfo.cs
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\models\obj\Debug\net8.0\models.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\models\obj\Debug\net8.0\models.sourcelink.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\models\obj\Debug\net8.0\models.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\models\obj\Debug\net8.0\refint\models.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\models\obj\Debug\net8.0\models.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\models\obj\Debug\net8.0\ref\models.dll

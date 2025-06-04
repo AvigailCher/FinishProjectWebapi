@@ -1,0 +1,162 @@
+H:\web api\my project\ServiceCL\obj\Debug\net8.0\ServiceCL.GeneratedMSBuildEditorConfig.editorconfig
+H:\web api\my project\ServiceCL\obj\Debug\net8.0\ServiceCL.AssemblyInfoInputs.cache
+H:\web api\my project\ServiceCL\obj\Debug\net8.0\ServiceCL.AssemblyInfo.cs
+H:\web api\my project\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.CoreCompileInputs.cache
+H:\web api\my project\ServiceCL\obj\Debug\net8.0\ServiceCL.sourcelink.json
+H:\web api\my project\ServiceCL\bin\Debug\net8.0\ServiceCL.deps.json
+H:\web api\my project\ServiceCL\bin\Debug\net8.0\ServiceCL.dll
+H:\web api\my project\ServiceCL\bin\Debug\net8.0\ServiceCL.pdb
+H:\web api\my project\ServiceCL\bin\Debug\net8.0\models.dll
+H:\web api\my project\ServiceCL\bin\Debug\net8.0\models.pdb
+H:\web api\my project\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.AssemblyReference.cache
+H:\web api\my project\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.CopyComplete
+H:\web api\my project\ServiceCL\obj\Debug\net8.0\ServiceCL.dll
+H:\web api\my project\ServiceCL\obj\Debug\net8.0\refint\ServiceCL.dll
+H:\web api\my project\ServiceCL\obj\Debug\net8.0\ServiceCL.pdb
+H:\web api\my project\ServiceCL\obj\Debug\net8.0\ref\ServiceCL.dll
+H:\web api\my project\ServiceCL\bin\Debug\net8.0\FileServise.dll
+H:\web api\my project\ServiceCL\bin\Debug\net8.0\FileServise.pdb
+C:\Users\user\Desktop\my project\ServiceCL\bin\Debug\net8.0\ServiceCL.deps.json
+C:\Users\user\Desktop\my project\ServiceCL\bin\Debug\net8.0\ServiceCL.dll
+C:\Users\user\Desktop\my project\ServiceCL\bin\Debug\net8.0\ServiceCL.pdb
+C:\Users\user\Desktop\my project\ServiceCL\bin\Debug\net8.0\FileServise.dll
+C:\Users\user\Desktop\my project\ServiceCL\bin\Debug\net8.0\models.dll
+C:\Users\user\Desktop\my project\ServiceCL\bin\Debug\net8.0\models.pdb
+C:\Users\user\Desktop\my project\ServiceCL\bin\Debug\net8.0\FileServise.pdb
+C:\Users\user\Desktop\my project\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\my project\ServiceCL\obj\Debug\net8.0\ServiceCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\my project\ServiceCL\obj\Debug\net8.0\ServiceCL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\my project\ServiceCL\obj\Debug\net8.0\ServiceCL.AssemblyInfo.cs
+C:\Users\user\Desktop\my project\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\my project\ServiceCL\obj\Debug\net8.0\ServiceCL.sourcelink.json
+C:\Users\user\Desktop\my project\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.Up2Date
+C:\Users\user\Desktop\my project\ServiceCL\obj\Debug\net8.0\ServiceCL.dll
+C:\Users\user\Desktop\my project\ServiceCL\obj\Debug\net8.0\refint\ServiceCL.dll
+C:\Users\user\Desktop\my project\ServiceCL\obj\Debug\net8.0\ServiceCL.pdb
+C:\Users\user\Desktop\my project\ServiceCL\obj\Debug\net8.0\ref\ServiceCL.dll
+H:\webapi6\ServiceCL\bin\Debug\net8.0\ServiceCL.deps.json
+H:\webapi6\ServiceCL\bin\Debug\net8.0\ServiceCL.dll
+H:\webapi6\ServiceCL\bin\Debug\net8.0\ServiceCL.pdb
+H:\webapi6\ServiceCL\bin\Debug\net8.0\FileServise.dll
+H:\webapi6\ServiceCL\bin\Debug\net8.0\models.dll
+H:\webapi6\ServiceCL\bin\Debug\net8.0\models.pdb
+H:\webapi6\ServiceCL\bin\Debug\net8.0\FileServise.pdb
+H:\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.AssemblyReference.cache
+H:\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.GeneratedMSBuildEditorConfig.editorconfig
+H:\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.AssemblyInfoInputs.cache
+H:\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.AssemblyInfo.cs
+H:\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.CoreCompileInputs.cache
+H:\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.sourcelink.json
+H:\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.dll
+H:\webapi6\ServiceCL\obj\Debug\net8.0\refint\ServiceCL.dll
+H:\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.pdb
+H:\webapi6\ServiceCL\obj\Debug\net8.0\ref\ServiceCL.dll
+H:\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.Up2Date
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\ServiceCL\bin\Debug\net8.0\ServiceCL.deps.json
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\ServiceCL\bin\Debug\net8.0\ServiceCL.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\ServiceCL\bin\Debug\net8.0\ServiceCL.pdb
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\ServiceCL\bin\Debug\net8.0\FileServise.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\ServiceCL\bin\Debug\net8.0\models.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\ServiceCL\bin\Debug\net8.0\models.pdb
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\ServiceCL\bin\Debug\net8.0\FileServise.pdb
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.AssemblyReference.cache
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.GeneratedMSBuildEditorConfig.editorconfig
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.AssemblyInfoInputs.cache
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.AssemblyInfo.cs
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.CoreCompileInputs.cache
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.sourcelink.json
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.CopyComplete
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\ServiceCL\obj\Debug\net8.0\refint\ServiceCL.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.pdb
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\ServiceCL\obj\Debug\net8.0\ref\ServiceCL.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\ServiceCL\bin\Debug\net8.0\ServiceCL.deps.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\ServiceCL\bin\Debug\net8.0\ServiceCL.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\ServiceCL\bin\Debug\net8.0\ServiceCL.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\ServiceCL\bin\Debug\net8.0\FileServise.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\ServiceCL\bin\Debug\net8.0\models.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\ServiceCL\bin\Debug\net8.0\models.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\ServiceCL\bin\Debug\net8.0\FileServise.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.AssemblyReference.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.AssemblyInfoInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.AssemblyInfo.cs
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.sourcelink.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.Up2Date
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\ServiceCL\obj\Debug\net8.0\refint\ServiceCL.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\ServiceCL\obj\Debug\net8.0\ref\ServiceCL.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.AssemblyReference.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.AssemblyInfoInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.AssemblyInfo.cs
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.sourcelink.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\refint\ServiceCL.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.pdb
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.AssemblyReference.cache
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.GeneratedMSBuildEditorConfig.editorconfig
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.AssemblyInfoInputs.cache
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.AssemblyInfo.cs
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.CoreCompileInputs.cache
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.sourcelink.json
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.dll
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\refint\ServiceCL.dll
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.pdb
+E:\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.dll
+E:\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\refint\ServiceCL.dll
+E:\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.pdb
+E:\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.AssemblyReference.cache
+E:\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.AssemblyInfoInputs.cache
+E:\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.AssemblyInfo.cs
+E:\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.CoreCompileInputs.cache
+E:\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.sourcelink.json
+E:\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\bin\Debug\net8.0\ServiceCL.deps.json
+E:\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\bin\Debug\net8.0\ServiceCL.dll
+E:\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\bin\Debug\net8.0\ServiceCL.pdb
+E:\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\bin\Debug\net8.0\FileServise.dll
+E:\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\bin\Debug\net8.0\models.dll
+E:\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\bin\Debug\net8.0\models.pdb
+E:\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\bin\Debug\net8.0\FileServise.pdb
+E:\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.Up2Date
+E:\פרויקט מעודכן לשיעור 7\webapi6\ServiceCL\obj\Debug\net8.0\ref\ServiceCL.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\ServiceCL\bin\Debug\net8.0\ServiceCL.deps.json
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\ServiceCL\bin\Debug\net8.0\ServiceCL.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\ServiceCL\bin\Debug\net8.0\ServiceCL.pdb
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\ServiceCL\bin\Debug\net8.0\FileServise.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\ServiceCL\bin\Debug\net8.0\models.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\ServiceCL\bin\Debug\net8.0\models.pdb
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\ServiceCL\bin\Debug\net8.0\FileServise.pdb
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.AssemblyReference.cache
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.GeneratedMSBuildEditorConfig.editorconfig
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.AssemblyInfoInputs.cache
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.AssemblyInfo.cs
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.CoreCompileInputs.cache
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.sourcelink.json
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.CopyComplete
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\ServiceCL\obj\Debug\net8.0\refint\ServiceCL.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.pdb
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\ServiceCL\obj\Debug\net8.0\ref\ServiceCL.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\ServiceCL\bin\Debug\net8.0\ServiceCL.deps.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\ServiceCL\bin\Debug\net8.0\ServiceCL.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\ServiceCL\bin\Debug\net8.0\ServiceCL.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\ServiceCL\bin\Debug\net8.0\FileServise.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\ServiceCL\bin\Debug\net8.0\models.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\ServiceCL\bin\Debug\net8.0\models.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\ServiceCL\bin\Debug\net8.0\FileServise.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.AssemblyReference.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.AssemblyInfoInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.AssemblyInfo.cs
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.sourcelink.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.csproj.Up2Date
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\ServiceCL\obj\Debug\net8.0\refint\ServiceCL.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\ServiceCL\obj\Debug\net8.0\ServiceCL.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\ServiceCL\obj\Debug\net8.0\ref\ServiceCL.dll

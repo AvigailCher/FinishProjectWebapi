@@ -1,0 +1,338 @@
+H:\web api\pizza\obj\Debug\net8.0\pizza.csproj.AssemblyReference.cache
+H:\web api\pizza\obj\Debug\net8.0\pizza.GeneratedMSBuildEditorConfig.editorconfig
+H:\web api\pizza\obj\Debug\net8.0\pizza.AssemblyInfoInputs.cache
+H:\web api\pizza\obj\Debug\net8.0\pizza.AssemblyInfo.cs
+H:\web api\pizza\obj\Debug\net8.0\pizza.csproj.CoreCompileInputs.cache
+H:\web api\pizza\obj\Debug\net8.0\pizza.MvcApplicationPartsAssemblyInfo.cs
+H:\web api\pizza\obj\Debug\net8.0\pizza.MvcApplicationPartsAssemblyInfo.cache
+H:\web api\my project\pizza\obj\Debug\net8.0\pizza.csproj.AssemblyReference.cache
+H:\web api\my project\pizza\obj\Debug\net8.0\pizza.GeneratedMSBuildEditorConfig.editorconfig
+H:\web api\my project\pizza\obj\Debug\net8.0\pizza.AssemblyInfoInputs.cache
+H:\web api\my project\pizza\obj\Debug\net8.0\pizza.AssemblyInfo.cs
+H:\web api\my project\pizza\obj\Debug\net8.0\pizza.csproj.CoreCompileInputs.cache
+H:\web api\my project\pizza\obj\Debug\net8.0\pizza.MvcApplicationPartsAssemblyInfo.cs
+H:\web api\my project\pizza\obj\Debug\net8.0\pizza.MvcApplicationPartsAssemblyInfo.cache
+H:\web api\my project\pizza\obj\Debug\net8.0\pizza.sourcelink.json
+H:\web api\my project\pizza\bin\Debug\net8.0\appsettings.Development.json
+H:\web api\my project\pizza\bin\Debug\net8.0\appsettings.json
+H:\web api\my project\pizza\bin\Debug\net8.0\pizza.exe
+H:\web api\my project\pizza\bin\Debug\net8.0\pizza.deps.json
+H:\web api\my project\pizza\bin\Debug\net8.0\pizza.runtimeconfig.json
+H:\web api\my project\pizza\bin\Debug\net8.0\pizza.dll
+H:\web api\my project\pizza\bin\Debug\net8.0\pizza.pdb
+H:\web api\my project\pizza\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\web api\my project\pizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\web api\my project\pizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\web api\my project\pizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\web api\my project\pizza\bin\Debug\net8.0\models.dll
+H:\web api\my project\pizza\bin\Debug\net8.0\ServiceCL.dll
+H:\web api\my project\pizza\bin\Debug\net8.0\models.pdb
+H:\web api\my project\pizza\bin\Debug\net8.0\ServiceCL.pdb
+H:\web api\my project\pizza\obj\Debug\net8.0\staticwebassets.build.json
+H:\web api\my project\pizza\obj\Debug\net8.0\staticwebassets.development.json
+H:\web api\my project\pizza\obj\Debug\net8.0\staticwebassets\msbuild.pizza.Microsoft.AspNetCore.StaticWebAssets.props
+H:\web api\my project\pizza\obj\Debug\net8.0\staticwebassets\msbuild.build.pizza.props
+H:\web api\my project\pizza\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pizza.props
+H:\web api\my project\pizza\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pizza.props
+H:\web api\my project\pizza\obj\Debug\net8.0\staticwebassets.pack.json
+H:\web api\my project\pizza\obj\Debug\net8.0\scopedcss\bundle\pizza.styles.css
+H:\web api\my project\pizza\obj\Debug\net8.0\pizza.csproj.CopyComplete
+H:\web api\my project\pizza\obj\Debug\net8.0\pizza.dll
+H:\web api\my project\pizza\obj\Debug\net8.0\refint\pizza.dll
+H:\web api\my project\pizza\obj\Debug\net8.0\pizza.pdb
+H:\web api\my project\pizza\obj\Debug\net8.0\pizza.genruntimeconfig.cache
+H:\web api\my project\pizza\obj\Debug\net8.0\ref\pizza.dll
+H:\web api\my project\pizza\bin\Debug\net8.0\Newtonsoft.Json.dll
+H:\web api\my project\pizza\bin\Debug\net8.0\FileServise.dll
+H:\web api\my project\pizza\bin\Debug\net8.0\FileServise.pdb
+C:\Users\user\Desktop\my project\pizza\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Desktop\my project\pizza\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Desktop\my project\pizza\bin\Debug\net8.0\pizza.staticwebassets.endpoints.json
+C:\Users\user\Desktop\my project\pizza\bin\Debug\net8.0\pizza.exe
+C:\Users\user\Desktop\my project\pizza\bin\Debug\net8.0\pizza.deps.json
+C:\Users\user\Desktop\my project\pizza\bin\Debug\net8.0\pizza.runtimeconfig.json
+C:\Users\user\Desktop\my project\pizza\bin\Debug\net8.0\pizza.dll
+C:\Users\user\Desktop\my project\pizza\bin\Debug\net8.0\pizza.pdb
+C:\Users\user\Desktop\my project\pizza\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\my project\pizza\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\my project\pizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\my project\pizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\my project\pizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\my project\pizza\bin\Debug\net8.0\FileServise.dll
+C:\Users\user\Desktop\my project\pizza\bin\Debug\net8.0\models.dll
+C:\Users\user\Desktop\my project\pizza\bin\Debug\net8.0\ServiceCL.dll
+C:\Users\user\Desktop\my project\pizza\bin\Debug\net8.0\models.pdb
+C:\Users\user\Desktop\my project\pizza\bin\Debug\net8.0\ServiceCL.pdb
+C:\Users\user\Desktop\my project\pizza\bin\Debug\net8.0\FileServise.pdb
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\pizza.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\pizza.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\pizza.AssemblyInfo.cs
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\pizza.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\pizza.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\pizza.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\pizza.sourcelink.json
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\scopedcss\bundle\pizza.styles.css
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\staticwebassets\msbuild.pizza.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\staticwebassets\msbuild.pizza.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\staticwebassets\msbuild.build.pizza.props
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pizza.props
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pizza.props
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\pizza.csproj.Up2Date
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\pizza.dll
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\refint\pizza.dll
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\pizza.pdb
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\pizza.genruntimeconfig.cache
+C:\Users\user\Desktop\my project\pizza\obj\Debug\net8.0\ref\pizza.dll
+C:\Users\user\Desktop\my project\pizza\bin\Debug\net8.0\pizza.staticwebassets.runtime.json
+H:\webapi6\pizza\bin\Debug\net8.0\appsettings.Development.json
+H:\webapi6\pizza\bin\Debug\net8.0\appsettings.json
+H:\webapi6\pizza\bin\Debug\net8.0\pizza.staticwebassets.runtime.json
+H:\webapi6\pizza\bin\Debug\net8.0\pizza.staticwebassets.endpoints.json
+H:\webapi6\pizza\bin\Debug\net8.0\pizza.exe
+H:\webapi6\pizza\bin\Debug\net8.0\pizza.deps.json
+H:\webapi6\pizza\bin\Debug\net8.0\pizza.runtimeconfig.json
+H:\webapi6\pizza\bin\Debug\net8.0\pizza.dll
+H:\webapi6\pizza\bin\Debug\net8.0\pizza.pdb
+H:\webapi6\pizza\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\webapi6\pizza\bin\Debug\net8.0\Newtonsoft.Json.dll
+H:\webapi6\pizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\webapi6\pizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\webapi6\pizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\webapi6\pizza\bin\Debug\net8.0\FileServise.dll
+H:\webapi6\pizza\bin\Debug\net8.0\models.dll
+H:\webapi6\pizza\bin\Debug\net8.0\ServiceCL.dll
+H:\webapi6\pizza\bin\Debug\net8.0\models.pdb
+H:\webapi6\pizza\bin\Debug\net8.0\ServiceCL.pdb
+H:\webapi6\pizza\bin\Debug\net8.0\FileServise.pdb
+H:\webapi6\pizza\obj\Debug\net8.0\pizza.csproj.AssemblyReference.cache
+H:\webapi6\pizza\obj\Debug\net8.0\pizza.GeneratedMSBuildEditorConfig.editorconfig
+H:\webapi6\pizza\obj\Debug\net8.0\pizza.AssemblyInfoInputs.cache
+H:\webapi6\pizza\obj\Debug\net8.0\pizza.AssemblyInfo.cs
+H:\webapi6\pizza\obj\Debug\net8.0\pizza.csproj.CoreCompileInputs.cache
+H:\webapi6\pizza\obj\Debug\net8.0\pizza.MvcApplicationPartsAssemblyInfo.cs
+H:\webapi6\pizza\obj\Debug\net8.0\pizza.MvcApplicationPartsAssemblyInfo.cache
+H:\webapi6\pizza\obj\Debug\net8.0\pizza.sourcelink.json
+H:\webapi6\pizza\obj\Debug\net8.0\scopedcss\bundle\pizza.styles.css
+H:\webapi6\pizza\obj\Debug\net8.0\staticwebassets.build.json
+H:\webapi6\pizza\obj\Debug\net8.0\staticwebassets.development.json
+H:\webapi6\pizza\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+H:\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.pizza.Microsoft.AspNetCore.StaticWebAssets.props
+H:\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.pizza.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+H:\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.build.pizza.props
+H:\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pizza.props
+H:\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pizza.props
+H:\webapi6\pizza\obj\Debug\net8.0\staticwebassets.pack.json
+H:\webapi6\pizza\obj\Debug\net8.0\pizza.csproj.Up2Date
+H:\webapi6\pizza\obj\Debug\net8.0\pizza.dll
+H:\webapi6\pizza\obj\Debug\net8.0\refint\pizza.dll
+H:\webapi6\pizza\obj\Debug\net8.0\pizza.pdb
+H:\webapi6\pizza\obj\Debug\net8.0\pizza.genruntimeconfig.cache
+H:\webapi6\pizza\obj\Debug\net8.0\ref\pizza.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\bin\Debug\net8.0\appsettings.Development.json
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\bin\Debug\net8.0\appsettings.json
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\bin\Debug\net8.0\pizza.staticwebassets.runtime.json
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\bin\Debug\net8.0\pizza.exe
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\bin\Debug\net8.0\pizza.deps.json
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\bin\Debug\net8.0\pizza.runtimeconfig.json
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\bin\Debug\net8.0\pizza.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\bin\Debug\net8.0\pizza.pdb
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\bin\Debug\net8.0\Microsoft.OpenApi.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\bin\Debug\net8.0\Newtonsoft.Json.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\bin\Debug\net8.0\FileServise.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\bin\Debug\net8.0\models.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\bin\Debug\net8.0\ServiceCL.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\bin\Debug\net8.0\models.pdb
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\bin\Debug\net8.0\ServiceCL.pdb
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\bin\Debug\net8.0\FileServise.pdb
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\obj\Debug\net8.0\pizza.csproj.AssemblyReference.cache
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\obj\Debug\net8.0\pizza.GeneratedMSBuildEditorConfig.editorconfig
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\obj\Debug\net8.0\pizza.AssemblyInfoInputs.cache
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\obj\Debug\net8.0\pizza.AssemblyInfo.cs
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\obj\Debug\net8.0\pizza.csproj.CoreCompileInputs.cache
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\obj\Debug\net8.0\pizza.MvcApplicationPartsAssemblyInfo.cs
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\obj\Debug\net8.0\pizza.MvcApplicationPartsAssemblyInfo.cache
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\obj\Debug\net8.0\pizza.sourcelink.json
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\obj\Debug\net8.0\staticwebassets.build.json
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\obj\Debug\net8.0\staticwebassets.development.json
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.pizza.Microsoft.AspNetCore.StaticWebAssets.props
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.build.pizza.props
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pizza.props
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pizza.props
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\obj\Debug\net8.0\staticwebassets.pack.json
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\obj\Debug\net8.0\scopedcss\bundle\pizza.styles.css
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\obj\Debug\net8.0\pizza.csproj.CopyComplete
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\obj\Debug\net8.0\pizza.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\obj\Debug\net8.0\refint\pizza.dll
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\obj\Debug\net8.0\pizza.pdb
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\obj\Debug\net8.0\pizza.genruntimeconfig.cache
+L:\webAPI\הגשות\lesson6\שיפי הורוביץ ואביגיל צ'רנוביצקי\webapi6\pizza\obj\Debug\net8.0\ref\pizza.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\bin\Debug\net8.0\pizza.staticwebassets.runtime.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\bin\Debug\net8.0\pizza.staticwebassets.endpoints.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\bin\Debug\net8.0\pizza.exe
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\bin\Debug\net8.0\pizza.deps.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\bin\Debug\net8.0\pizza.runtimeconfig.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\bin\Debug\net8.0\pizza.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\bin\Debug\net8.0\pizza.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\bin\Debug\net8.0\FileServise.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\bin\Debug\net8.0\models.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\bin\Debug\net8.0\ServiceCL.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\bin\Debug\net8.0\models.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\bin\Debug\net8.0\ServiceCL.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\bin\Debug\net8.0\FileServise.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\pizza.csproj.AssemblyReference.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\pizza.AssemblyInfoInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\pizza.AssemblyInfo.cs
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\pizza.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\pizza.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\pizza.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\pizza.sourcelink.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\scopedcss\bundle\pizza.styles.css
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.pizza.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.pizza.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.build.pizza.props
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pizza.props
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pizza.props
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\pizza.csproj.Up2Date
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\pizza.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\refint\pizza.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\pizza.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\pizza.genruntimeconfig.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\webapi-lesson6\webapi6\pizza\obj\Debug\net8.0\ref\pizza.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\pizza\obj\Debug\net8.0\pizza.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\pizza\obj\Debug\net8.0\refint\pizza.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\lesson 8\פרויקט מעודכן לשיעור 7\webapi6\pizza\obj\Debug\net8.0\pizza.pdb
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\pizza\obj\Debug\net8.0\pizza.dll
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\pizza\obj\Debug\net8.0\refint\pizza.dll
+H:\webAPI\פרויקט מעודכן לשיעור 7\webapi6\pizza\obj\Debug\net8.0\pizza.pdb
+E:\פרויקט מעודכן לשיעור 7\webapi6\pizza\obj\Debug\net8.0\pizza.dll
+E:\פרויקט מעודכן לשיעור 7\webapi6\pizza\obj\Debug\net8.0\refint\pizza.dll
+E:\פרויקט מעודכן לשיעור 7\webapi6\pizza\obj\Debug\net8.0\pizza.pdb
+E:\פרויקט מעודכן לשיעור 7\webapi6\pizza\obj\Debug\net8.0\pizza.csproj.AssemblyReference.cache
+E:\פרויקט מעודכן לשיעור 7\webapi6\pizza\obj\Debug\net8.0\pizza.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט מעודכן לשיעור 7\webapi6\pizza\obj\Debug\net8.0\pizza.AssemblyInfoInputs.cache
+E:\פרויקט מעודכן לשיעור 7\webapi6\pizza\obj\Debug\net8.0\pizza.AssemblyInfo.cs
+E:\פרויקט מעודכן לשיעור 7\webapi6\pizza\obj\Debug\net8.0\pizza.csproj.CoreCompileInputs.cache
+E:\פרויקט מעודכן לשיעור 7\webapi6\pizza\obj\Debug\net8.0\pizza.MvcApplicationPartsAssemblyInfo.cs
+E:\פרויקט מעודכן לשיעור 7\webapi6\pizza\obj\Debug\net8.0\pizza.MvcApplicationPartsAssemblyInfo.cache
+E:\פרויקט מעודכן לשיעור 7\webapi6\pizza\obj\Debug\net8.0\pizza.sourcelink.json
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\appsettings.Development.json
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\appsettings.json
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\worker.json
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\pizza.staticwebassets.runtime.json
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\pizza.exe
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\pizza.deps.json
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\pizza.runtimeconfig.json
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\pizza.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\pizza.pdb
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\Newtonsoft.Json.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\FileServise.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\models.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\ServiceCL.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\models.pdb
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\ServiceCL.pdb
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\bin\Debug\net8.0\FileServise.pdb
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\obj\Debug\net8.0\pizza.csproj.AssemblyReference.cache
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\obj\Debug\net8.0\pizza.GeneratedMSBuildEditorConfig.editorconfig
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\obj\Debug\net8.0\pizza.AssemblyInfoInputs.cache
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\obj\Debug\net8.0\pizza.AssemblyInfo.cs
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\obj\Debug\net8.0\pizza.csproj.CoreCompileInputs.cache
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\obj\Debug\net8.0\pizza.MvcApplicationPartsAssemblyInfo.cs
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\obj\Debug\net8.0\pizza.MvcApplicationPartsAssemblyInfo.cache
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\obj\Debug\net8.0\pizza.sourcelink.json
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\obj\Debug\net8.0\staticwebassets.build.json
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\obj\Debug\net8.0\staticwebassets.development.json
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.pizza.Microsoft.AspNetCore.StaticWebAssets.props
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.build.pizza.props
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pizza.props
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pizza.props
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\obj\Debug\net8.0\staticwebassets.pack.json
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\obj\Debug\net8.0\scopedcss\bundle\pizza.styles.css
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\obj\Debug\net8.0\pizza.csproj.CopyComplete
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\obj\Debug\net8.0\pizza.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\obj\Debug\net8.0\refint\pizza.dll
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\obj\Debug\net8.0\pizza.pdb
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\obj\Debug\net8.0\pizza.genruntimeconfig.cache
+H:\web api\פרויקט מעודכן לשיעור 8\webapi6\pizza\obj\Debug\net8.0\ref\pizza.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\worker.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\pizza.staticwebassets.endpoints.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\pizza.staticwebassets.runtime.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\pizza.exe
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\pizza.deps.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\pizza.runtimeconfig.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\pizza.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\pizza.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\FileServise.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\models.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\ServiceCL.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\models.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\ServiceCL.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\bin\Debug\net8.0\FileServise.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\pizza.csproj.AssemblyReference.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\pizza.AssemblyInfoInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\pizza.AssemblyInfo.cs
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\pizza.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\pizza.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\pizza.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\pizza.sourcelink.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\scopedcss\bundle\pizza.styles.css
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.pizza.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.pizza.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.build.pizza.props
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pizza.props
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pizza.props
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\pizza.csproj.Up2Date
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\pizza.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\refint\pizza.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\pizza.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\pizza.genruntimeconfig.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\פרויקט מעודכן לשיעור 9\webapi6\pizza\obj\Debug\net8.0\ref\pizza.dll
