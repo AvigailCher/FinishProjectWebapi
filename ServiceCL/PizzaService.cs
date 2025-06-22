@@ -46,11 +46,14 @@ public class PizzaSrevice : Ipizza
 
   public PizzaTata deletpizza(int id)
   {
-    foreach (var i in PizzaList)
+    for (int i = 0; i < PizzaList.Count; i++)
     {
-      if (id == i.Id)
-        PizzaList.Remove(i);
-      return i;
+      if (id == PizzaList[i].Id)
+      {
+        var pizza = PizzaList[i];
+        PizzaList.RemoveAt(i);
+        return pizza;
+      }
     }
     return null;
   }
@@ -60,10 +63,11 @@ public class PizzaSrevice : Ipizza
     foreach (var i in PizzaList)
     {
       if (id == i.Id)
+      {
         i.IsGlutan = isGluten;
-      return i;
+        return i;
+      }
     }
     return null;
-
   }
 }

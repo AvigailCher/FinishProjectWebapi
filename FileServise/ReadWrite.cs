@@ -18,18 +18,37 @@ public class ReadWrite<T> : IFileService<T>
     public List<T> Read(string path)
     {
         var list = new List<T>();
-        var text = File.ReadAllText(_path);
-        if (!string.IsNullOrEmpty(text))
+        try
         {
-            list = JsonConvert.DeserializeObject<List<T>>(text);
+            if (File.Exists(_path))
+            {
+                var text = File.ReadAllText(_path);
+                if (!string.IsNullOrEmpty(text))
+                {
+                    list = JsonConvert.DeserializeObject<List<T>>(text) ?? new List<T>();
+                }
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error reading file: {ex.Message}");
+            // Return empty list instead of crashing
         }
         return list;
     }
     public void Write(string path, T obj)
     {
-        var list = Read(path);
-        list.Add(obj);
-        File.WriteAllText(_path, JsonConvert.SerializeObject(list));
+        try
+        {
+            var list = Read(path);
+            list.Add(obj);
+            File.WriteAllText(_path, JsonConvert.SerializeObject(list));
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error writing file: {ex.Message}");
+            // Don't crash, just log the error
+        }
     }
     
 }

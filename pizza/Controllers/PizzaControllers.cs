@@ -30,11 +30,21 @@ public class PizzaControllers : baseControllers
     [HttpPost]
     [Authorize(Policy ="superworker")]
 
-    public void PostPizza( [FromBody] PizzaTata p)
+    public IActionResult PostPizza( [FromBody] PizzaTata p)
     {
+        if (p == null)
+        {
+            return BadRequest("פיצה לא יכולה להיות ריקה");
+        }
 
-          Console.WriteLine ("Received pizza: " + JsonConvert.SerializeObject(p));
-          _fileService.Write(@"webapi6\JsonConvert.json",p);
+        if (string.IsNullOrEmpty(p.Name))
+        {
+            return BadRequest("שם הפיצה הוא שדה חובה");
+        }
+
+        Console.WriteLine ("Received pizza: " + JsonConvert.SerializeObject(p));
+        _fileService.Write(@"webapi6\JsonConvert.json",p);
+        return Ok("פיצה נוספה בהצלחה");
     }
     [Route("[action]/{id}")]
     [HttpGet]
