@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\pizza\\pizza.csproj": {}
+    "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\pizza\\pizza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\FileServise\\FileServise.csproj": {
+    "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\FileServise\\FileServise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\FileServise\\FileServise.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\FileServise\\FileServise.csproj",
         "projectName": "FileServise",
-        "projectPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\FileServise\\FileServise.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\FileServise\\FileServise.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\FileServise\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\FileServise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\models\\models.csproj": {
+    "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\models\\models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\models\\models.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\models\\models.csproj",
         "projectName": "models",
-        "projectPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\models\\models.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\models\\models.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\models\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\pizza\\pizza.csproj": {
+    "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\pizza\\pizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\pizza\\pizza.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\pizza\\pizza.csproj",
         "projectName": "pizza",
-        "projectPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\pizza\\pizza.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\pizza\\pizza.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\pizza\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\pizza\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -171,11 +171,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\models\\models.csproj": {
-                "projectPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\models\\models.csproj"
+              "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\models\\models.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\models\\models.csproj"
               },
-              "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\ServiceCL\\ServiceCL.csproj": {
-                "projectPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\ServiceCL\\ServiceCL.csproj"
+              "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\ServiceCL\\ServiceCL.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\ServiceCL\\ServiceCL.csproj"
               }
             }
           }
@@ -232,14 +232,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\ServiceCL\\ServiceCL.csproj": {
+    "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\ServiceCL\\ServiceCL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\ServiceCL\\ServiceCL.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\ServiceCL\\ServiceCL.csproj",
         "projectName": "ServiceCL",
-        "projectPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\ServiceCL\\ServiceCL.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\ServiceCL\\ServiceCL.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\ServiceCL\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\ServiceCL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -261,11 +261,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\FileServise\\FileServise.csproj": {
-                "projectPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\FileServise\\FileServise.csproj"
+              "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\FileServise\\FileServise.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\FileServise\\FileServise.csproj"
               },
-              "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\models\\models.csproj": {
-                "projectPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\models\\models.csproj"
+              "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\models\\models.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\models\\models.csproj"
               }
             }
           }

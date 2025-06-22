@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\FileServise\\FileServise.csproj": {}
+    "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\FileServise\\FileServise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\FileServise\\FileServise.csproj": {
+    "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\FileServise\\FileServise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\FileServise\\FileServise.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\FileServise\\FileServise.csproj",
         "projectName": "FileServise",
-        "projectPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\FileServise\\FileServise.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\FileServise\\FileServise.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\FileServise\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\FileServise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

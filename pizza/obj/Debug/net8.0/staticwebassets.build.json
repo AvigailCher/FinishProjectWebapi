@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "53Jc8MqSy7v45Dfa9uHqDBF6RhJbk8v4m2M60aKSp4g=",
+  "Hash": "tnqopakiFgPTBg74uwxFTMpa771P8VYP3QA4zfUjCmA=",
   "Source": "pizza",
   "BasePath": "_content/pizza",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "pizza\\wwwroot",
       "Source": "pizza",
-      "ContentRoot": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\pizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\pizza\\wwwroot\\",
       "BasePath": "_content/pizza",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\pizza\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\pizza\\wwwroot\\index.html",
       "SourceId": "pizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\pizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\pizza\\wwwroot\\",
       "BasePath": "_content/pizza",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\pizza\\wwwroot\\js\\index.js",
+      "Identity": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\pizza\\wwwroot\\js\\index.js",
       "SourceId": "pizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\pizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\pizza\\wwwroot\\",
       "BasePath": "_content/pizza",
       "RelativePath": "js/index#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -62,7 +62,7 @@
   "Endpoints": [
     {
       "Route": "index.gqkusoami0.html",
-      "AssetFile": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\pizza\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\pizza\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -107,7 +107,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\pizza\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\pizza\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -144,7 +144,7 @@
     },
     {
       "Route": "js/index.js",
-      "AssetFile": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\pizza\\wwwroot\\js\\index.js",
+      "AssetFile": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\pizza\\wwwroot\\js\\index.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -181,7 +181,7 @@
     },
     {
       "Route": "js/index.zrdxvc64dc.js",
-      "AssetFile": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWbapi\\pizza\\wwwroot\\js\\index.js",
+      "AssetFile": "C:\\Users\\user\\Documents\\לימודים-אביגיל\\webapi\\FinishProjectWebapi\\pizza\\wwwroot\\js\\index.js",
       "Selectors": [],
       "ResponseHeaders": [
         {

@@ -130,3 +130,15 @@ C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\mo
 C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\models\obj\Debug\net8.0\refint\models.dll
 C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\models\obj\Debug\net8.0\models.pdb
 C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWbapi\models\obj\Debug\net8.0\ref\models.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWebapi\models\bin\Debug\net8.0\models.deps.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWebapi\models\bin\Debug\net8.0\models.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWebapi\models\bin\Debug\net8.0\models.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWebapi\models\obj\Debug\net8.0\models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWebapi\models\obj\Debug\net8.0\models.AssemblyInfoInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWebapi\models\obj\Debug\net8.0\models.AssemblyInfo.cs
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWebapi\models\obj\Debug\net8.0\models.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWebapi\models\obj\Debug\net8.0\models.sourcelink.json
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWebapi\models\obj\Debug\net8.0\models.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWebapi\models\obj\Debug\net8.0\refint\models.dll
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWebapi\models\obj\Debug\net8.0\models.pdb
+C:\Users\user\Documents\לימודים-אביגיל\webapi\FinishProjectWebapi\models\obj\Debug\net8.0\ref\models.dll
