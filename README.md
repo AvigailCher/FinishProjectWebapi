@@ -1,4 +1,4 @@
-# 🍕 PizzaTata - Web API Management System
+ PizzaTata - Web API Management System
 
 ## 📋 תיאור הפרויקט
 מערכת ניהול פיצריה מתקדמת המבוססת על Web API ב-.NET 8. המערכת מאפשרת ניהול מלא של פיצות, עובדים והזמנות עם מערכת אימות מתקדמת.
@@ -155,18 +155,4 @@ Authorization: Bearer your_jwt_token
 2. הוסף את המודל ל-Interface המתאים
 3. עדכן את השירותים הרלוונטיים
 
-## 📞 תמיכה
 
-לשאלות ותמיכה טכנית, פנה אל:
-- Email: [your-email@example.com]
-- GitHub Issues: [repository-issues]
-
-## 📄 רישיון
-
-פרויקט זה פותח כחלק מקורס פיתוח Web API.
-
----
-
-**פותח על ידי:** [שם המפתח]  
-**תאריך:** 2024  
-**גרסה:** 1.0.0
